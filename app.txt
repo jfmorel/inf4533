@@ -1,1 +1,8 @@
 Fichier .txt du projet INF4533
+
+IP de google.com: 206.167.212.106
+IP de w3.uqo.ca: 132.213.9.33
+IP de www.wikipedia.org: 208.80.154.224
+
+Qu'est-ce que l'adresse 8.8.8.8:53?
+Il s'agit de l'adresse IP du serveur DNS publique de Google. Ce serveur DNS permet de traduire un URL vers son adresse IP afin de rediriger une requête vers le bon serveur.
