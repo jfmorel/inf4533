@@ -1,4 +1,4 @@
-Fichier .txt du projet INF4533
+Fichier .txt du projet INF4533 - TD1
 
 IP et masque local: 132.213.163.7     255.255.255.0
 
